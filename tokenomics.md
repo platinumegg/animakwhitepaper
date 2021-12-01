@@ -1,0 +1,3 @@
+# Tokenomics
+
+AnimakはもちろんTokenomicsもしっかり考えている。Animak自体は限定の個数でしか作らない予定で。同時にAnimakごとに生成できるガバナンストークンにも制限がある。
