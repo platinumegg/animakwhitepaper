@@ -2,7 +2,7 @@
 
 ANIMAK NFT is not only art, this is virtual character.
 
-include&#x20;
+including but not limited to...
 
 * Personality
 * Graphics(2D, 3D)
