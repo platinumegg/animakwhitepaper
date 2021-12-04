@@ -1,5 +1,9 @@
 # NFT
 
+ANIMAK is NFT too.
+
+You can trade, send and buy ANIMAK NFTs from others.
+
 ANIMAK NFT is not only art, this is virtual character.
 
 including but not limited to...
@@ -7,9 +11,3 @@ including but not limited to...
 * Personality
 * Graphics(2D, 3D)
 * Stories
-
-
-
-
-
-Animakは、ただの絵のNFTではなく、新しいビジネスを創出することが出来る。画期的なNFT.
