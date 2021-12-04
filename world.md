@@ -4,4 +4,4 @@ Animakにはそれ自体に世界観がある。Animakの世界は「この世�
 
 
 
-Animak is a own world, world of Animak is "The world between worlds" that exists without belonging to any games, comics, movies, or Metaverse, or any of them. They don't belong to any of them, and therefore can exist anywhere. Animak's character play different roles in different games, manga,contents, and worlds. But at the same time, they exist as the same character. (Have you ever seen a similar character in a different manga? That could be an Animak character.)
+Animak has a world view of its own, Animak's world is "the in-between world" that exists without belonging to any games, comics, movies, or Metaverse, or any of them. They don't belong to any of them, and therefore can exist anywhere. Animak's character play different roles in different games, manga,contents, and worlds. But at the same time, they exist as the same character. (Have you ever seen a similar character in a different manga? That could be an Animak character.)
