@@ -1,6 +1,6 @@
 # Governance Token
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/Token Structure.png>)
 
 There is 2 layer of governance.
 
