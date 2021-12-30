@@ -20,3 +20,4 @@
 * [License](license/README.md)
   * [Derivative Creation](license/derivative-creation.md)
 * [Team](team.md)
+* [We are looking for members!](we-are-looking-for-members.md)
